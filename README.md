@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Whiter57
-- 👀 I’m interested in programming
+- 👀 I’m interested in C++ & C#
 - 🌱 I’m currently learning in IT Academy
 - 📫 How to reach me ...
 
